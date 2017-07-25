@@ -1,0 +1,74 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "张三",
+      "tel": "15223810923"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "tel": "15223810923"
+    },
+    {
+      "id": 3,
+      "name": "王二",
+      "tel": "15223810923"
+    },
+    {
+      "id": 4,
+      "name": "陈五",
+      "tel": "15223810923"
+    },
+    {
+      "name": "赵六",
+      "tel": "123454323",
+      "id": 5
+    },
+    {
+      "name": "赵六",
+      "tel": "123454323",
+      "id": 6
+    },
+        {
+      "name": "赵六",
+      "tel": "123454323",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "陈五",
+      "sex":"male",
+      "tel": "12345678",
+      "auther":{
+        "name":"陈五",
+        "age":"25"
+      }
+    },
+    {
+      "id": 2,
+      "name": "王二",
+      "sex":"male",
+      "tel": "15223810923",
+      "auther":{
+        "name":"王二",
+        "age":"22"
+      }
+    }
+  ],
+  "user": {
+      "id": 1,
+      "name": "陈五",
+      "tel": "15223810923"
+    }
+    ,
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
