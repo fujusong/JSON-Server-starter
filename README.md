@@ -8,6 +8,23 @@ npm install json-server -g
 json-server db.json -p 3003
 ```
 
+本实例运行,先安装依赖
+
+```
+npm run install
+```
+
+然后运行静态实例，
+
+```
+npm run server 
+```
+或者运行动态实例
+
+```
+npm run dserver 
+```
+静态实例访问
 
 ```
 Get http://localhost:3003/list
